@@ -1,4 +1,4 @@
-🖥️Clear settings for Visual studio code🖥️
+<h1 align='center'>🖥️Clear settings for Visual studio code🖥️</h1>
 
 ## Screenshots
 
