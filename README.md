@@ -9,6 +9,7 @@
 
 Open user settings (json) <br>
 *Ctrl+shift+p* <br>
+
 ![screenshot 3](https://github.com/sixwerz/vscode-setting/blob/main/screenshots/vscodescreeen1.png) <br>
 Paste the code from settings.json into this file <br>
 
@@ -16,3 +17,8 @@ Paste the code from settings.json into this file <br>
 
 Theme - [Bearded Theme Coffee Cream](https://marketplace.visualstudio.com/items/?itemName=BeardedBear.beardedtheme) <br>
 Font - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+
+If you want to change the font, you need to change the parameter
+```
+"editor.fontSize": 16,
+```
