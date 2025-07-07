@@ -1,1 +1,1 @@
-🖥️My settings for Visual studio code🖥️
+🖥️Clear settings for Visual studio code🖥️
