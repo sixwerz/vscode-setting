@@ -16,7 +16,7 @@
     "editor.lineNumbers": "on",
     "editor.guides.indentation": false,
 
-    "workbench.colorTheme": "Bearded Theme Monokai Black",
+    "workbench.colorTheme": "Bearded Theme Coffee Cream",
     "explorer.confirmDelete": false,
     "liveServer.settings.CustomBrowser": "firefox",
     "liveServer.settings.donotShowInfoMsg": true,
@@ -52,6 +52,7 @@
     // Typography
     "editor.fontFamily": "JetBrains Mono, Fira Code",
     "editor.suggestFontSize": 16,
+    "editor.fontSize": 16,
     "editor.suggestLineHeight": 30,
     "terminal.integrated.lineHeight": 1.6,
     "terminal.integrated.fontSize": 16,
@@ -59,4 +60,5 @@
     "vscode_custom_css.imports": [
 
     ],
+    "javascript.updateImportsOnFileMove.enabled": "always",
 }
